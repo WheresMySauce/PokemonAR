@@ -1,2 +1,0 @@
-# PokemonAR
-A pokemon AR
